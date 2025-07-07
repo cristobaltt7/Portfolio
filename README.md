@@ -106,6 +106,13 @@ Es una aplicación web de gestión de mazos para juegos de cartas coleccionables
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cristobaltt7&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-</p>
+<h3 align="left">📊 Mis estadísticas de GitHub</h3>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=cristobaltt7&show_icons=true&theme=tokyonight&hide=issues&hide_border=false" alt="Estadísticas de GitHub" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cristobaltt7&theme=tokyonight&hide_border=false" alt="Racha de contribuciones" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristobaltt7&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
+</div>
+
