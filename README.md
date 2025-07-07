@@ -32,7 +32,7 @@ Soy desarrollador full stack especializado en desarrollo web y móvil con enfoqu
 
 ---
 
-### 📱 App Médica – Citas y Gestión de Pacientes  
+### 📱 MediCitas  
 **Aplicación Android** para reservar y administrar citas médicas usando Firebase.
 
 - 🔐 Autenticación con Firebase Authentication
