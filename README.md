@@ -95,7 +95,7 @@ Es una aplicación web de gestión de mazos para juegos de cartas coleccionables
 ## 📫 Contacto
 
 - 📧 **Email:** cctt2004@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/cristobal](www.linkedin.com/in/cristóbal-trujillo-tovar-25ba6036b)  
+- 💼 **LinkedIn:** [linkedin.com/in/cristobal-trujillo-tovar-25ba6036b](https://www.linkedin.com/in/cristobal-trujillo-tovar-25ba6036b)
 
 ---
 
