@@ -44,7 +44,7 @@ Soy desarrollador full stack especializado en desarrollo web y móvil con enfoqu
 
 ---
 
-### 🛠️ Mulligan.gg  
+### 🛠️ Mulligan 
 Es una aplicación web de gestión de mazos para juegos de cartas coleccionables. En ella se podrá buscar información sobre las cartas del juego Magic the Gathering, crear lista de mazos y compartirlas con aquellos que quieran.
 
 - 📦  CRUD completo con controladores, modelos y validaciones
